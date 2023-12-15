@@ -1,0 +1,8 @@
+
+=====================================
+||          Dataset Usage          ||
+=====================================
+
+Those folders from "t01" to "t10" are dataset for rm=40%.
+
+The datasets for rm=20% and rm=60% are stored in the corresponding folders. Please copy them to current folder (\PyRec\datasets\PyLib\) when reproduce the experiments.
